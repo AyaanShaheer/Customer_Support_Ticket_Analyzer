@@ -21,7 +21,7 @@ The current implementation uses **mock agents** instead of actual AI models to a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ayaanshaheer-customer-support-analyzer.git
+git clone https://github.com/AyaanShaheer/Customer_Support_Ticket_Analyzer.git
 cd ayaanshaheer-customer-support-analyzer
 
 # Install dependencies
@@ -106,6 +106,7 @@ Detailed evaluation results can be found in the evaluation directory.
 ## Project Structure
 
 ```
+
 ayaanshaheer-customer-support-analyzer/
 ├── main.py                      # Main application entry point
 ├── agents/
