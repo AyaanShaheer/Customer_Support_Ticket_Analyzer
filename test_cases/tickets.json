@@ -1,0 +1,52 @@
+[
+  {
+    "id": "SUP-001",
+    "subject": "Application crashes when uploading large files",
+    "message": "Hi Support Team, I've been trying to upload files larger than 500MB to your platform, but the application crashes every time. This is preventing me from completing my work. Can you please fix this issue as soon as possible? Thanks.",
+    "customer_tier": "Enterprise",
+    "customer_revenue": 250000,
+    "account_age_days": 732,
+    "previous_tickets": 3,
+    "last_ticket_days_ago": 45
+  },
+  {
+    "id": "SUP-002",
+    "subject": "Feature request: Dark mode",
+    "message": "Hello, I would love to see a dark mode option in your application. It would be easier on the eyes when working late at night. This isn't urgent but would be a nice addition in a future update.",
+    "customer_tier": "Standard",
+    "customer_revenue": 5000,
+    "account_age_days": 180,
+    "previous_tickets": 1,
+    "last_ticket_days_ago": 90
+  },
+  {
+    "id": "SUP-003",
+    "subject": "Billing discrepancy on latest invoice",
+    "message": "I was charged $599 on my latest invoice but my plan should be $499 per month. Please review and refund the difference. I've attached the invoice for reference.",
+    "customer_tier": "Business",
+    "customer_revenue": 35000,
+    "account_age_days": 365,
+    "previous_tickets": 2,
+    "last_ticket_days_ago": 60
+  },
+  {
+    "id": "SUP-004",
+    "subject": "URGENT: Service completely down",
+    "message": "Our entire team is unable to access the platform! This is completely unacceptable. We have a major client presentation in 2 hours and need this fixed IMMEDIATELY. We pay a premium for your service and expect reliability.",
+    "customer_tier": "Enterprise",
+    "customer_revenue": 180000,
+    "account_age_days": 548,
+    "previous_tickets": 5,
+    "last_ticket_days_ago": 15
+  },
+  {
+    "id": "SUP-005",
+    "subject": "Confused about how to use the export feature",
+    "message": "Hi there, I'm new to your platform and I'm having trouble figuring out how to export my data to CSV. Could someone point me to a tutorial or explain the process? Thank you!",
+    "customer_tier": "Standard",
+    "customer_revenue": 2000,
+    "account_age_days": 30,
+    "previous_tickets": 0,
+    "last_ticket_days_ago": null
+  }
+]

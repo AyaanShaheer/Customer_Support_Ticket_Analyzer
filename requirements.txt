@@ -1,0 +1,13 @@
+# Dependencies for Customer Support Ticket Analyzer
+
+# Core dependencies
+pydantic>=2.0.0
+
+# Optional dependencies for AI integration
+# Uncomment these lines to use the actual AI models instead of mock implementations
+# pydantic-ai>=0.2.0
+# openai>=1.0.0
+
+# Optional dependencies for development
+pytest>=7.0.0  # For testing
+black>=23.0.0  # For code formatting
